@@ -1,0 +1,23 @@
+{
+  "name": "github-actions-poc-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishore-indraganti/github-actions-poc-eslint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishore-indraganti/github-actions-poc-eslint/issues"
+  },
+  "homepage": "https://github.com/kishore-indraganti/github-actions-poc-eslint#readme",
+  "dependencies": {
+    "eslint": "^7.1.0"
+  }
+}
